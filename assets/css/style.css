@@ -1,0 +1,32 @@
+/* Navbar*/
+.navbar-items-menu-grow{
+    flex-grow: 0 !important;
+}
+.space{
+    display: flex;
+    justify-content: flex-end !important;
+}
+/*Section Mis trabajos*/
+.separation {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+/*Carrusel*/
+.image-carrusel {
+    height: 600PX;
+}
+/*Cards*/
+.image-card {
+    height:300px;
+}
+.colaboration{
+    height: 500px;
+}
+/*Footer*/
+.icons {
+display: flex;
+justify-content: space-evenly;}
+
+.heigth-contact{
+    font-size: 35px;
+}

@@ -1,0 +1,17 @@
+.brand-height{
+    height: 30px;
+}
+.navbar-items-menu-grow{
+    flex-grow: 0 !important;
+}
+
+.tamaño-imagen{
+    height: 256px;
+}
+
+.logo-black{
+  width: 75px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
