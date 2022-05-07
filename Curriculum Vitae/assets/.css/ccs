@@ -1,0 +1,6 @@
+.encabezado {
+    font-family: 'Beau Rivage', cursive;
+font-family: 'EB Garamond', serif;
+font-family: 'Grape Nuts', cursive;
+font-size: 30%
+}

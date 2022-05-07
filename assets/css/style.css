@@ -1,0 +1,53 @@
+/* Navbar*/
+.navbar-items-menu-grow{
+flex-grow: 0 !important;
+}
+.navbar-style{
+background-color: rgba(115, 75, 142, .7);
+}
+.space{
+display: flex;
+justify-content: flex-end !important;
+}
+/*Section Mis trabajos*/
+.separation {
+margin-top: 1.5em;
+margin-bottom: 0.5em;
+}
+/*mis trabajos*/
+.font-tittle{
+    font-size: 45px;
+    margin-top: 100px;
+}
+/*Carrusel*/
+.image-carrusel {
+height: 600PX;
+}
+/*Cards*/
+.image-card {
+height:300px;
+}
+.colaboration{
+height: 500px;
+}
+/*Footer*/
+.icons {
+display: flex;
+justify-content: space-evenly;}
+
+.heigth-contact{
+    font-size: 35px;
+    padding: 15px;
+}
+.style-footer{
+height: 160px;
+background-color: #3A1355;
+color: #fff;
+}
+.color-icons{
+color: #fff
+}
+
+/*Icons*/
+.style-icons-font{    
+ color: #8045a8;}

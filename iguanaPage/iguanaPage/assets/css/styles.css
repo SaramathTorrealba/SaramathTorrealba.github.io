@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/Raleway/Raleway-VariableFont_wght.ttf') format('truetype');
+}
+/*cuerpo documento*/
+body {
+    margin: 0%;
+    border: 0%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: raleway;
+}
+
+h1 {
+    font-size: 3em;
+}   
+
+/*Caja cuadro guía, solo prueba espacios*/
+/*
+section,article, main {
+    border-style: dotted;
+}*/
+
+.orderText {
+    display: inline-block;
+    width: 30%;
+    align-items: center;
+    margin: 20px;
+    vertical-align: middle;
+}
+
+.orderText img {
+    width: auto;
+}
+/*Caracteristicas*/
+.contenedor {
+    background-color: #1E1A13;
+    font-size: 40px;
+    align-items: center;
+    padding: 47px;
+
+}
+
+.caracteristicas {
+    display: inline-block;
+    width: 20%;
+    font-size: 25px;
+    font-style: raleway;
+}
+/*Fotos iguanas*/
+.caracteristicas2{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 2em;    
+}
+
+.caracteristicas2 img{
+    width: auto;
+    height: 30%;  
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.caracteristicas2 img:hover{
+    transform: scale(1.5);    
+}
+
+/*Footer*/
+footer{
+    text-align: center;
+    background-color: #1E1A13;
+    border: 3em;
+    padding: 3em;
+    margin: 0%;
+    display: block;
+    
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: goldenrod;
+}
