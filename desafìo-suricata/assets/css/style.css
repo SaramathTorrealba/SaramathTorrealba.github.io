@@ -1,0 +1,78 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.color-navbar{
+    background-color: #E83E8C;
+    padding-left: 90px;
+}
+.alineacion {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-right:110px;
+}
+.diseño-imagen-logo{
+    height:60px;
+}
+
+.color-letras{
+    color: white !important;
+}
+
+/*header*/
+.titulo{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 100px;
+    color: #707070;
+    opacity: 1;
+    padding-top: 82px;
+    padding-bottom:50px;
+}
+
+/*tarjetas*/
+.primera-linea{
+    display: flex;
+    justify-content: space-around;
+}
+.segunda-linea{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+    padding-bottom: 110px;
+}
+.style-link{
+    text-decoration: none;
+    color: #1C7CD5;
+}
+/*section*/
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 180px;
+    background-color: #17A2B8;
+}
+.color-{
+    color: white;
+}
+.color-icons{
+    color: white;
+    padding-right: 30px;
+}
+/*footer*/
+.estilo-footer{
+    background-color: #E83E8C;
+    display: flex;
+    justify-content: center;
+    height: 240px;
+}
+.tamaño-logo{
+    height: 86px;
+    height: 161px;
+    padding-top: 31px;
+}
+
+.altura-tarjetas{
+    height: 550px;
+}
